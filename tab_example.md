@@ -1,11 +1,13 @@
 ---
-title: Example
+title: Nuestros Eventos
 layout:  null
 tab: true
 order: 1
 tags: example-tag
 ---
 
-## Example
+## Nuestros Eventos
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+Hemos organizado mutliples conferencias en disitintas universidades de Guayaquil. Pero aun faltan mas.
+
+Preparense que aun fatan los mejores eventos
