@@ -3,6 +3,7 @@
 layout: col-sidebar
 title: OWASP Guayaquil
 tags: example-tag
+tags: eventos-tag
 level: 0
 
 region: Latin America
