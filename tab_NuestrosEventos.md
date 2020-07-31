@@ -1,5 +1,6 @@
 ---
-title: Nuestros Eventos
+title: NuestrosEventos
+displaytext: Nuestros Eventos
 layout:  null
 tab: true
 order: 1
