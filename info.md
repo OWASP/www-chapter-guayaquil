@@ -1,4 +1,6 @@
 <!--### Chapter Information
+
+	* [<img src="assets/images/Twitter_logo.png">](https://twitter.com/Owasp_guayaquil)
 * Chapter Region-->
 
 ### Social Links
