@@ -30,7 +30,7 @@ Por favor visita y suscríbete en https://www.meetup.com/OWASP-Guayaquil-Chapter
 ## Eventos
 Realizamos eventos periódicos del Capítulo OWASP Guayaquil en disitintas universidades de Guayaquil.
 
-Visita nuestra página de Meetup para registrarte en los próximos eventos: https://www.meetup.com/OWASP-Guayaquil-Chapter/
+Visita nuestra página de Meetup para registrarte en los próximos eventos: [MeetUp OWASP Guayaquil Chapter](https://www.meetup.com/OWASP-Guayaquil-Chapter/)
 
 ## Acerca de OWASP
 El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
