@@ -13,11 +13,12 @@ postal-code:
 
 
 ## OWASP Guayaquil Chapter
+
 Bienvenido a la página principal del capítulo Guayaquil, Perla del Pacifico
 
 <img src="assets/images/owasp-chapter-gye.jpg">
 
-OWASP Capitulo Guayaquil, es una comunidad dedicada a compartir y generar conocimiento en seguridad de la información, ciberseguridad y tecnologías para fortalecer la creación de software e infraestructuras seguras en Ecuador
+OWASP Capitulo Guayaquil, es una comunidad dedicada a compartir y generar conocimiento en seguridad de la información, ciberseguridad y tecnologías para fortalecer la creación de software e infraestructuras seguras en Ecuador.
 
 ## Team
 Estás interesado en formar parte del Grupo de Trabajo del Capítulo Guayaquil? Escríbenos para coordinar nuestras siguientes reuniones virtuales del 2021.
@@ -35,7 +36,7 @@ Visita nuestra página de Meetup para registrarte en los próximos eventos: [Mee
 ## Acerca de OWASP
 El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
 
-- Proyectos de software de código abierto liderados por la comunidad
+- Proyectos de software de código abierto liderados por la comunidad.
 - Más de 275 capítulos locales en todo el mundo.
 - Decenas de miles de miembros.
 - Conferencias educativas y de capacitación líderes en la industria.
