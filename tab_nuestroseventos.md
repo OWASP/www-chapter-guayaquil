@@ -13,6 +13,8 @@ Hemos organizado mutliples conferencias en disitintas universidades de Guayaquil
 
 Preparense que aun fatan los mejores eventos
 
+
+
 ## Mantente al tanto de nuestras publicaciones de futuros eventos en Twitter 
 
 <!-- <a href="https://twitter.com/Owasp_guayaquil?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Owasp_guayaquil</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
