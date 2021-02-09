@@ -1,5 +1,5 @@
 ---
-title: NuestrosEventos
+title: nuestroseventos
 displaytext: Nuestros Eventos
 layout: null
 tab: true
