@@ -4,7 +4,7 @@ displaytext: Nuestros Eventos
 layout: null
 tab: true
 order: 4
-tags: zap
+tags: front-matter
 ---
 
 ## Nuestros Eventos
