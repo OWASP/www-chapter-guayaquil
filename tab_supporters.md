@@ -1,6 +1,6 @@
 ---
-title: Supporters
-displaytext: Our Supporters
+title: Nuestros Patrocinadores
+displaytext: Nuestros Patrocinadores
 layout: null
 tab: true
 order: 4
