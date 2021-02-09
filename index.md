@@ -25,7 +25,7 @@ Estás interesado en formar parte del Grupo de Trabajo del Capítulo Guayaquil? 
 ## Meetings
 Las reuniones, talleres y eventos del OWASP Guayaquil Chapter están publicados en nuestro Meetup!
 
-Por favor visita y suscríbete en https://www.meetup.com/OWASP-Guayaquil-Chapter/ para recibir toda la información del Chapter.
+Por favor visita y suscríbete en [MeetUp OWASP Guayaquil Chapter](https://www.meetup.com/OWASP-Guayaquil-Chapter/) para recibir toda la información del Chapter.
 
 ## Eventos
 Realizamos eventos periódicos del Capítulo OWASP Guayaquil en disitintas universidades de Guayaquil.
