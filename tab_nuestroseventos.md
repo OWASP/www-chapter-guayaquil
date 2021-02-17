@@ -13,7 +13,7 @@ Hemos organizado mutliples conferencias en disitintas universidades de Guayaquil
 
 Preparense que aun fatan los mejores eventos
 
-### Mantente al tanto de nuestros futuros eventos de Meetup:
+### Mantente al tanto de nuestros futuros eventos en Meetup:
 {% include chapter_events.html group=page.meetup-group %}
 
 <script type='text/javascript'>
@@ -39,6 +39,8 @@ Preparense que aun fatan los mejores eventos
   
 </script>
 
-### Mantente al tanto de nuestras publicaciones de futuros eventos en Twitter 
+
+
+### Date una vuelta por nuestra cuenta de Twitter para estar actualizado con nuestras publicaciones
 
 <div class="container" style="width:500px;margin: auto;"><a class="twitter-timeline" href="https://twitter.com/Owasp_Guayaquil?ref_src=twsrc%5Etfw">Tweets by Owasp_Guayaquil</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
