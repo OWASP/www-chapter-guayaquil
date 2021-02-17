@@ -8,6 +8,7 @@ region: Latin America
 meetup-group: OWASP-Guayaquil-Chapter
 country: Ecuador
 postal-code: 
+auto-migrated: 0
 
 ---
 
