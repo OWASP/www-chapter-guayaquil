@@ -3,8 +3,7 @@
 layout: col-sidebar
 title: OWASP Guayaquil
 tags: front-matter
-level: 0
-region: Latin America
+region: South America
 meetup-group: OWASP-Guayaquil-Chapter
 country: Ecuador
 postal-code: 
