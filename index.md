@@ -32,6 +32,12 @@ Realizamos eventos periódicos del Capítulo OWASP Guayaquil en disitintas unive
 
 Visita nuestra página de Meetup para registrarte en los próximos eventos: [MeetUp OWASP Guayaquil Chapter](https://www.meetup.com/OWASP-Guayaquil-Chapter/)
 
+## Nuestros Lideres
+
+| <img src="assets/images/victorvera.jpg" width="150" height="150" style="border-radius: 15px;"> | <img src="assets/images/roberto_teran.jpeg" width="150" height="150" style="border-radius: 15px;"> |
+| :---: | :---: |
+| ***Victor Vera*** | ***Roberto Teran*** |
+
 ## Acerca de OWASP
 El Open Web Application Security Project (OWASP) es una fundación sin fines de lucro que trabaja para mejorar la seguridad del software. Nuestros proyectos incluyen:
 
