@@ -1,0 +1,24 @@
+leaders:
+  - name: Victor Vera
+    email: victor.vera@owasp.org
+    github: vxvera-owasp
+  - name: Roberto Teran
+    email: roberto.teranmarin@owasp.org
+location:
+  country: Ecuador
+  country_code: EC
+  region: Guayas
+  city: Guayaquil
+  latitude: -2.1900563
+  longitude: -79.8868741
+meetup_group: OWASP-Guayaquil-Chapter
+name: OWASP Guayaquil
+repositories:
+  - name: www-chapter-guayaquil
+    url: https://github.com/OWASP/www-chapter-guayaquil
+    description: OWASP Foundation Web Repository
+tags:
+  - front-matter
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-guayaquil
